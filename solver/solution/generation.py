@@ -1,11 +1,11 @@
 from abc import ABC, abstractmethod
 
-class data(ABC):
-    
+class generation(ABC):
+
     @abstractmethod
-    def read_Data(self, path: str):
+    def add_member(self, member):
         pass
     
     @abstractmethod
-    def show_data(self):
+    def del_member(self, member):
         pass

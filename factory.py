@@ -1,9 +1,10 @@
 from data.data_A import data_A
-from solver.constructive.constructive_A import constructive_A
-from solver.mutation.mutation_A import mutation_A
-from solver.reproduction.reproduction_A import reproduction_A
-from solver.selector.selector_A import selector_A
 from solver.solver_A import solver_A
+from solver.mutation.mutation_A import mutation_A
+from solver.selector.selector_A import selector_A
+from solver.solution.generation_A import generation_A
+from solver.constructive.constructive_A import constructive_A
+from solver.reproduction.reproduction_A import reproduction_A
 
 class factory():
 
@@ -30,4 +31,10 @@ class factory():
     @staticmethod
     def get_solver_A():
         return solver_A()
+    
+    @staticmethod    
+    def get_generation_A():
+        return generation_A()
+
+    
     

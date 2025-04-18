@@ -16,6 +16,9 @@ class solver_A(solver):
     
     def set_reproduction(self, reproduction):
         self.reproduction = reproduction
+    
+    def set_generation(self, generation):
+        self.generation = generation
 
     def solve(self):
         return "resolvendo '-'"
