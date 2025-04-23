@@ -6,7 +6,7 @@ my_data         = factory.get_data_A()
 my_mutation     = factory.get_mutation_A()
 my_selector     = factory.get_selector_A()
 my_constructive = factory.get_constructive_A()
-my_reprodoction = factory.get_reproduction_A()
+my_reproduction = factory.get_reproduction_A()
 my_generation   = factory.get_generation_A()
 
 my_solver       = factory.get_solver_A()
@@ -15,7 +15,7 @@ my_solver.set_data(my_data)
 my_solver.set_selector(my_selector)
 my_solver.set_mutation(my_mutation)
 my_solver.set_constructive(my_constructive)
-my_solver.set_reproduction(my_reprodoction)
+my_solver.set_reproduction(my_reproduction)
 my_solver.set_generation(my_generation)
 
 # caminho_entrada = input("caminho do arquivo de entrada:")
@@ -67,8 +67,8 @@ def comparar_solucoes(sol1, sol2):
     plt.tight_layout()
     plt.show()
 
-
+my_reproduction.reproduction_init(solucoes, my_data.mapa_binario_restauravel)
 
 #visualizar(solucoes)
-comparar_solucoes(solucoes[0], solucoes[1])
-print(my_solver.solve())
+#comparar_solucoes(solucoes[0], solucoes[1])
+#print(my_solver.solve())
