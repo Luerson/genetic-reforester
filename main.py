@@ -68,7 +68,13 @@ def comparar_solucoes(sol1, sol2):
     plt.show()
 
 
-
 #visualizar(solucoes)
 comparar_solucoes(solucoes[0], solucoes[1])
+
+print(f"Total de soluções antes da seleção: {len(solucoes)}")
+solucoes_selecionadas = my_selector.select(solucoes, my_data.mapa_binario_floresta)
+print(f"Total de soluções após seleção: {len(solucoes_selecionadas)}")
+
+comparar_solucoes(solucoes[0], solucoes_selecionadas[0])
+
 print(my_solver.solve())
