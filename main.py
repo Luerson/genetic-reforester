@@ -28,6 +28,20 @@ my_data.show_data()
 
 solucoes = my_constructive.construct_init(my_data.mapa_binario_restauravel)
 
+#visualizar(solucoes)
+comparar_solucoes(solucoes[0], solucoes[1])
+
+print(f"Total de soluções antes da seleção: {len(solucoes)}")
+solucoes_selecionadas = my_selector.select(solucoes, my_data.mapa_binario_floresta)
+print(f"Total de soluções após seleção: {len(solucoes_selecionadas)}")
+
+comparar_solucoes(solucoes[0], solucoes_selecionadas[0])
+
+
+my_reproduction.reproduction_init(solucoes, my_data.mapa_binario_restauravel)
+
+print(my_solver.solve())
+
 def visualizar(solucoes):
     plt.figure(figsize=(15, 8))
     
@@ -66,9 +80,3 @@ def comparar_solucoes(sol1, sol2):
 
     plt.tight_layout()
     plt.show()
-
-my_reproduction.reproduction_init(solucoes, my_data.mapa_binario_restauravel)
-
-#visualizar(solucoes)
-#comparar_solucoes(solucoes[0], solucoes[1])
-#print(my_solver.solve())
