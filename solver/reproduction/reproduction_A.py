@@ -1,5 +1,6 @@
 import numpy as np
 from .reproduction import reproduction
+import random
 
 class reproduction_A(reproduction):
 
@@ -49,9 +50,11 @@ class reproduction_A(reproduction):
          restParent1 = np.logical_xor(parent1, base_offspring)
          restParent2 = np.logical_xor(parent2, base_offspring)
 
+         alfa = random.uniform(0.2, 0.8)
+
          # Distribui os restos entre os filhos
-         distribuir_restos(restParent1, offspring1, offspring2, pct_a=0.8)
-         distribuir_restos(restParent2, offspring2, offspring1, pct_a=0.8)
+         distribuir_restos(restParent1, offspring1, offspring2, pct_a=alfa)
+         distribuir_restos(restParent2, offspring2, offspring1, pct_a=alfa)
 
          # Adiciona os filhos à nova lista de soluções
          nova_lista.append(offspring1)
