@@ -30,18 +30,23 @@ class selector_B(selector):
         scores = np.array(scores)
         scores_normalizados = (scores / scores.sum()) * 100  
 
+        scores_normalizados = np.array([12, 12, 12, 12, 12, 40, 0, 0, 0, 0, 0, 0])
+
         # Passo 4: Seleção probabilística 
         sobreviventes = []
         indices = list(range(len(solucoes)))  
-        n_selecionar = len(solucoes) // 2    
+        n_selecionar = len(solucoes) // 2
+
         for _ in range(n_selecionar):
             # Escolha aleatória baseada nas probabilidades
-            escolhido = random.choices(indices, weights=scores_normalizados, k=1)[0]
+            escolhido_idx = random.choices(range(len(indices)), weights=scores_normalizados, k=1)[0]
+            escolhido = indices[escolhido_idx]
             sobreviventes.append(solucoes[escolhido])
             
             # Remove o escolhido e renormaliza as probabilidades
-            indices.remove(escolhido)
-            scores_normalizados = np.delete(scores_normalizados, escolhido)
-            scores_normalizados = (scores_normalizados / scores_normalizados.sum()) * 100
+            del indices[escolhido_idx]
+            scores_normalizados = np.delete(scores_normalizados, escolhido_idx)
+            if scores_normalizados.sum() > 0:  # proteção contra divisão por zero
+                scores_normalizados = (scores_normalizados / scores_normalizados.sum()) * 100
 
         return sobreviventes

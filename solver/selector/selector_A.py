@@ -35,23 +35,23 @@ class selector_A(selector):
                 contagion = 0
                 
             scores.append(contagion/lsi)
-            print(f"Solução {i}: lsi = {lsi}")
-            print(f"Solução {i}: contagion = {contagion}")
+            # print(f"Solução {i}: lsi = {lsi}")
+            # print(f"Solução {i}: contagion = {contagion}")
 
-            # Visualizar a solução e a solução combinada 
-            plt.figure(figsize=(15, 4))
-            plt.subplot(1, 2, 1)
-            plt.imshow(solucoes[i], cmap='coolwarm', vmin=0, vmax=1)  # Mapa de cores mais adequado
-            plt.title(f"Solução {i}")
-            plt.axis('off')
+            # # Visualizar a solução e a solução combinada 
+            # plt.figure(figsize=(15, 4))
+            # plt.subplot(1, 2, 1)
+            # plt.imshow(solucoes[i], cmap='coolwarm', vmin=0, vmax=1)  # Mapa de cores mais adequado
+            # plt.title(f"Solução {i}")
+            # plt.axis('off')
 
-            plt.subplot(1, 2, 2)
-            plt.imshow(combinada, cmap='Greens', vmin=0, vmax=1)
-            plt.title(f"Solução {i} + Mapa de Floresta")
-            plt.axis('off')
+            # plt.subplot(1, 2, 2)
+            # plt.imshow(combinada, cmap='Greens', vmin=0, vmax=1)
+            # plt.title(f"Solução {i} + Mapa de Floresta")
+            # plt.axis('off')
 
-            plt.tight_layout()
-            plt.show()
+            # plt.tight_layout()
+            # plt.show()
         
         # Passo 3: Ordenar soluções pelos scores (melhores primeiro)
         indices_ordenados = np.argsort(scores)[::-1]  

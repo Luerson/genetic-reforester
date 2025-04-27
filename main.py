@@ -4,7 +4,7 @@ import numpy as np
 
 my_data         = factory.get_data_A()
 my_mutation     = factory.get_mutation_A()
-my_selector     = factory.get_selector_A()
+my_selector     = factory.get_selector_B()
 my_constructive = factory.get_constructive_A()
 my_reproduction = factory.get_reproduction_A()
 my_generation   = factory.get_generation_A()
@@ -29,13 +29,13 @@ my_data.show_data()
 solucoes = my_constructive.construct_init(my_data.mapa_binario_restauravel)
 
 #visualizar(solucoes)
-comparar_solucoes(solucoes[0], solucoes[1])
+# comparar_solucoes(solucoes[0], solucoes[1])
 
 print(f"Total de soluções antes da seleção: {len(solucoes)}")
 solucoes_selecionadas = my_selector.select(solucoes, my_data.mapa_binario_floresta)
 print(f"Total de soluções após seleção: {len(solucoes_selecionadas)}")
 
-comparar_solucoes(solucoes[0], solucoes_selecionadas[0])
+# comparar_solucoes(solucoes[0], solucoes_selecionadas[0])
 
 
 my_reproduction.reproduction_init(solucoes, my_data.mapa_binario_restauravel)
@@ -80,3 +80,5 @@ def comparar_solucoes(sol1, sol2):
 
     plt.tight_layout()
     plt.show()
+
+visualizar(solucoes)

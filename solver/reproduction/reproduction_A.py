@@ -49,40 +49,40 @@ class reproduction_A(reproduction):
       distribuir_restos(restParent1, offspring1, offspring2, pct_a=0.8)
       distribuir_restos(restParent2, offspring2, offspring1, pct_a=0.8)
 
-      # Visualização dos pais e filhos
-      plt.figure(figsize=(18, 6))
+      # # Visualização dos pais e filhos
+      # plt.figure(figsize=(18, 6))
 
-      plt.subplot(2, 3, 1)
-      plt.imshow(parent1, cmap='coolwarm', vmin=0, vmax=1)
-      plt.title("Parent 1")
-      plt.axis('off')
+      # plt.subplot(2, 3, 1)
+      # plt.imshow(parent1, cmap='coolwarm', vmin=0, vmax=1)
+      # plt.title("Parent 1")
+      # plt.axis('off')
 
-      plt.subplot(2, 3, 2)
-      plt.imshow(parent2, cmap='plasma', vmin=0, vmax=1)
-      plt.title("Parent 2")
-      plt.axis('off')
+      # plt.subplot(2, 3, 2)
+      # plt.imshow(parent2, cmap='plasma', vmin=0, vmax=1)
+      # plt.title("Parent 2")
+      # plt.axis('off')
 
-      plt.subplot(2, 3, 3)
-      plt.imshow(np.logical_and(parent1, parent2), cmap='Greens', vmin=0, vmax=1)
-      plt.title("Interseção (base)")
-      plt.axis('off')
+      # plt.subplot(2, 3, 3)
+      # plt.imshow(np.logical_and(parent1, parent2), cmap='Greens', vmin=0, vmax=1)
+      # plt.title("Interseção (base)")
+      # plt.axis('off')
 
-      plt.subplot(2, 3, 4)
-      plt.imshow(offspring1, cmap='viridis', vmin=0, vmax=1)
-      plt.title("Offspring 1")
-      plt.axis('off')
+      # plt.subplot(2, 3, 4)
+      # plt.imshow(offspring1, cmap='viridis', vmin=0, vmax=1)
+      # plt.title("Offspring 1")
+      # plt.axis('off')
 
-      plt.subplot(2, 3, 5)
-      plt.imshow(offspring2, cmap='magma', vmin=0, vmax=1)
-      plt.title("Offspring 2")
-      plt.axis('off')
+      # plt.subplot(2, 3, 5)
+      # plt.imshow(offspring2, cmap='magma', vmin=0, vmax=1)
+      # plt.title("Offspring 2")
+      # plt.axis('off')
 
-      plt.subplot(2, 3, 6)
-      plt.imshow(np.logical_xor(offspring1, offspring2), cmap='hot', vmin=0, vmax=1)
-      plt.title("Diferenças entre filhos")
-      plt.axis('off')
+      # plt.subplot(2, 3, 6)
+      # plt.imshow(np.logical_xor(offspring1, offspring2), cmap='hot', vmin=0, vmax=1)
+      # plt.title("Diferenças entre filhos")
+      # plt.axis('off')
 
-      plt.tight_layout()
-      plt.show()
+      # plt.tight_layout()
+      # plt.show()
 
       return offspring1, offspring2
