@@ -34,7 +34,7 @@ class selector_A(selector):
                 lsi = 0
                 contagion = 0
                 
-            scores.append(contagion)
+            scores.append(contagion/lsi)
             # print(f"Solução {i}: lsi = {lsi}")
             # print(f"Solução {i}: contagion = {contagion}")
 
