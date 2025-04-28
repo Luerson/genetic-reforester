@@ -6,10 +6,20 @@ from .mutation import mutation
 class mutation_A(mutation):
 
     def mut(self, curr_sol, forest_map, reforest_map):
+        # print('Check 1 - curr_sol inicial fora do reforest_map:')
+        # print(np.any((curr_sol == 1) & (reforest_map == 0)))
+
         self._set_curr_sol_and_forest_map(curr_sol, forest_map, reforest_map)
         self._create_union_map()
         self._remove_reallocated_points()
+        # print('Check 2 - curr_sol após remoção:')
+        # print(np.any((self.curr_sol == 1) & (self.reforest_map == 0)))
+
         self._get_new_solution()
+
+        # print('Check 3 - curr_sol final:')
+        # print(np.any((self.curr_sol == 1) & (self.reforest_map == 0)))
+
         
         return self.curr_sol
 
@@ -45,7 +55,7 @@ class mutation_A(mutation):
     def _remove_reallocated_points(self):
         self.count = 0
         restorable_points = self._get_valid_points(self.curr_sol)
-        extended_forest_map = self._get_extension_matrix(self.forest_map)
+        extended_forest_map = self._get_extension_matrix(self.union_map)
 
         for i, j in restorable_points:
             i_ext = i + 2
@@ -82,6 +92,7 @@ class mutation_A(mutation):
 
             weight_matrix[i][j] = self._get_weight_of_mask(mask)
 
+        weight_matrix += (self.reforest_map > 0).astype(int)
         return weight_matrix
     
     def _get_new_solution(self):

@@ -19,7 +19,8 @@ class reproduction_A(reproduction):
 
       n = len(lista_solucoes)
       indices = np.random.permutation(n)  # Embaralha os índices para formar pares aleatórios
-      nova_lista = lista_solucoes.copy()  # Cria uma nova lista para armazenar pais + filhos
+      # nova_lista = lista_solucoes.copy()  # Cria uma nova lista para armazenar pais + filhos
+      nova_lista = []
 
       def distribuir_restos(resto_mask, filho_a, filho_b, pct_a=0.8):
          """

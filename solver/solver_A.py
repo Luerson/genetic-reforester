@@ -21,4 +21,18 @@ class solver_A(solver):
         self.generation = generation
 
     def solve(self):
-        return "resolvendo '-'"
+        solutions = self.constructive.construct_init(self.data.mapa_binario_restauravel)
+
+        for i in range(1000):
+            solutions = self.selector.select(solutions, self.data.mapa_binario_floresta)
+            offspring = self.reproduction.reproduction_init(solutions, self.data.mapa_binario_restauravel)
+
+            for i in range(len(offspring)):
+                offspring[i] = self.mutation.mut(offspring[i], self.data.mapa_binario_floresta, self.data.mapa_binario_restauravel)
+            
+            solutions += offspring
+        
+        while len(solutions) > 12:
+            solutions = self.selector.select(solutions, self.data.mapa_binario_floresta)
+        
+        return solutions
