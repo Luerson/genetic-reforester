@@ -6,7 +6,7 @@ import pylandstats as pls
 
 my_data         = factory.get_data_A()
 my_mutation     = factory.get_mutation_A()
-my_selector     = factory.get_selector_B()
+my_selector     = factory.get_selector_A()
 my_adaptation   = factory.get_adaptaion_A()
 my_constructive = factory.get_constructive_A()
 my_reproduction = factory.get_reproduction_A()
@@ -23,7 +23,7 @@ my_solver.set_reproduction(my_reproduction)
 my_solver.set_generation(my_generation)
 
 # caminho_entrada = input("caminho do arquivo de entrada:")
-caminho_entrada = "input/uso_solo_2019.tif"
+caminho_entrada = "input/jp_solo.tif"
 # caminho_saida   = input("caminho do arquivo de saida:")
 
 my_data.read_Data(caminho_entrada)

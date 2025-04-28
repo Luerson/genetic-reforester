@@ -28,7 +28,7 @@ class solver_A(solver):
     def solve(self):
         solutions = self.constructive.construct_init(self.data.mapa_binario_restauravel)
 
-        for i in range(20):
+        for i in range(100):
             solutions = self.selector.select(solutions, self.data.mapa_binario_floresta)
             offspring = self.reproduction.reproduction_init(solutions, self.data.mapa_binario_restauravel)
 
@@ -47,9 +47,9 @@ class solver_A(solver):
         final_solution = solutions[0]
 
         # Salvar como .npy
-        np.save('final_solution_20_12_B.npy', final_solution)
+        np.save('jp_solo_5_A.npy', final_solution)
 
         # Se quiser também salvar como .csv
-        np.savetxt('final_solution_20_12_B.csv', final_solution, fmt='%d', delimiter=',')
+        np.savetxt('jp_solo_5_A.csv', final_solution, fmt='%d', delimiter=',')
         
         return solutions
