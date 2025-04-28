@@ -8,6 +8,12 @@ class selector_A(selector):
 
     def select(self, solucoes, mapa_floresta):
         # Passo 1: Combinar cada solução com o mapa de floresta
+
+        paisagem_floresta = pls.Landscape(mapa_floresta + 1, res=(30, 30))
+        contagion_floresta = paisagem_floresta.contagion()
+        lsi_floresta = paisagem_floresta.landscape_shape_index()
+        score_floresta = contagion_floresta/lsi_floresta
+
         solucoes_combinadas = []
         for sol in solucoes:
             # Criar cópia para não modificar a solução original
@@ -62,6 +68,8 @@ class selector_A(selector):
         melhores_solucoes = [solucoes[i] for i in melhores_indices]
 
         melhores_valores = [scores[i] for i in melhores_indices]
+        print(scores)
+        print(melhores_valores)
         print(max(melhores_valores))
         
         return melhores_solucoes

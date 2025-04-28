@@ -6,13 +6,13 @@ class constructive_A(constructive):
         # Passo 1: Identificar pixels válidos
         pos_validas = np.argwhere(mapa_binario == 1)
         n_validos = len(pos_validas)
-        n_preencher = int(0.20 * n_validos)
+        n_preencher = int(0.02 * n_validos)
         
         solucoes = []
     
 
         # Passo 2: Gerar 12 soluções com conjuntos diferentes de pixels
-        for k in range(96):
+        for k in range(12):
             solucao = np.zeros_like(mapa_binario)
             
             # Seleciona 20% dos pixels válidos ALEATORIAMENTE (sem repetição dentro da mesma solução)

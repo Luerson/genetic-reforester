@@ -30,8 +30,6 @@ class selector_B(selector):
         scores = np.array(scores)
         scores_normalizados = (scores / scores.sum()) * 100  
 
-        scores_normalizados = np.array([12, 12, 12, 12, 12, 40, 0, 0, 0, 0, 0, 0])
-
         # Passo 4: Seleção probabilística 
         sobreviventes = []
         indices = list(range(len(solucoes)))  
@@ -48,5 +46,9 @@ class selector_B(selector):
             scores_normalizados = np.delete(scores_normalizados, escolhido_idx)
             if scores_normalizados.sum() > 0:  # proteção contra divisão por zero
                 scores_normalizados = (scores_normalizados / scores_normalizados.sum()) * 100
+        
+        print(scores)
+        print(scores_normalizados)
 
+        print(max(scores))
         return sobreviventes
