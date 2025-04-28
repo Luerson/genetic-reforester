@@ -6,7 +6,7 @@ class constructive_A(constructive):
         # Passo 1: Identificar pixels válidos
         pos_validas = np.argwhere(mapa_binario == 1)
         n_validos = len(pos_validas)
-        n_preencher = int(0.02 * n_validos)
+        n_preencher = int(0.2 * n_validos)
         
         solucoes = []
     

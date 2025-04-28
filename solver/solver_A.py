@@ -1,4 +1,5 @@
 from .solver import solver
+import numpy as np
 import random
 
 class solver_A(solver):
@@ -39,7 +40,16 @@ class solver_A(solver):
             
             solutions += offspring
         
-        while len(solutions) > 12:
+        while len(solutions) > 1:
             solutions = self.selector.select(solutions, self.data.mapa_binario_floresta)
+        
+        # Aqui o solutions[0] é a melhor solução final
+        final_solution = solutions[0]
+
+        # Salvar como .npy
+        np.save('final_solution_20_12_B.npy', final_solution)
+
+        # Se quiser também salvar como .csv
+        np.savetxt('final_solution_20_12_B.csv', final_solution, fmt='%d', delimiter=',')
         
         return solutions

@@ -1,0 +1,862 @@
+[0.66967386 0.66900567 0.66909172 0.6694255  0.66925554 0.6699717
+ 0.6698043  0.6695839  0.66820935 0.66846958 0.67028139 0.67005087
+ 0.66976814 0.67009008 0.66939948 0.66903418 0.66911115 0.6698536
+ 0.67001799 0.66911948 0.67047811 0.66987661 0.66873224 0.6689262
+ 0.66969434 0.66899381 0.67004252 0.67024494 0.67002532 0.6697047
+ 0.66951265 0.66982604 0.66912049 0.66931513 0.6690473  0.66916516
+ 0.66832395 0.6684847  0.66980885 0.6696491  0.66967589 0.66971759
+ 0.66917981 0.66955181 0.66921565 0.66999294 0.6693664  0.66990544]
+[4.16416489 4.16624223 4.16518447 4.16722803 4.16837472 4.17037833
+ 4.16428584 4.16890655 4.16433769 4.17279326 4.16192763 4.16791536
+ 4.16355554 4.16678461 4.16434398 4.16388848 4.164622   4.16862803
+ 4.1676338  4.16806009 4.16471316 4.16702835 4.16977378 4.16922916]
+0.670478109609693
+Porcentagem de realocação: 81.89%
+Porcentagem de realocação: 81.42%
+Porcentagem de realocação: 81.51%
+Porcentagem de realocação: 81.64%
+Porcentagem de realocação: 81.83%
+MUTAÇÃO
+Porcentagem de realocação: 38.06%
+Porcentagem de realocação: 81.75%
+MUTAÇÃO
+Porcentagem de realocação: 37.85%
+Porcentagem de realocação: 81.68%
+Porcentagem de realocação: 81.18%
+Porcentagem de realocação: 81.55%
+Porcentagem de realocação: 81.45%
+Porcentagem de realocação: 81.26%
+Porcentagem de realocação: 81.91%
+MUTAÇÃO
+Porcentagem de realocação: 38.15%
+Porcentagem de realocação: 81.68%
+Porcentagem de realocação: 81.51%
+Porcentagem de realocação: 81.43%
+Porcentagem de realocação: 81.75%
+Porcentagem de realocação: 81.91%
+Porcentagem de realocação: 81.69%
+Porcentagem de realocação: 81.40%
+Porcentagem de realocação: 81.96%
+Porcentagem de realocação: 81.69%
+Porcentagem de realocação: 81.82%
+Porcentagem de realocação: 81.93%
+Porcentagem de realocação: 81.76%
+MUTAÇÃO
+Porcentagem de realocação: 37.87%
+[0.67001799 0.6699717  0.66846958 0.66931513 0.66987661 0.6693664
+ 0.6689262  0.66820935 0.67028139 0.67002532 0.66900567 0.66967386
+ 0.67004252 0.67005087 0.6698043  0.66921565 0.66982604 0.6684847
+ 0.66967589 0.66903418 0.67024494 0.66832395 0.66939948 0.6697047
+ 0.7993378  0.79876683 0.80022519 0.80051538 0.70681892 0.70594975
+ 0.79885827 0.79954638 0.80312139 0.80252539 0.80002662 0.70596451
+ 0.7999401  0.80259226 0.80097065 0.80071765 0.79951592 0.80088536
+ 0.80170863 0.80077785 0.80046452 0.80082363 0.80056593 0.70505014]
+[3.85928795 3.86416963 3.8644656  3.86192417 3.8577856  3.86974815
+ 3.86238298 3.86624069 3.86836907 3.86841727 3.8635953  3.86625236
+ 3.86254757 4.61483191 4.07567296 4.63323488 4.61880871 4.07575814
+ 4.6183092  4.63362095 4.62279825 4.62851948 4.62133685 4.62192233]
+0.8031213860621935
+Porcentagem de realocação: 62.18%
+Porcentagem de realocação: 61.97%
+Porcentagem de realocação: 77.21%
+Porcentagem de realocação: 68.63%
+Porcentagem de realocação: 78.77%
+Porcentagem de realocação: 80.36%
+Porcentagem de realocação: 62.16%
+Porcentagem de realocação: 62.59%
+Porcentagem de realocação: 69.16%
+Porcentagem de realocação: 76.01%
+Porcentagem de realocação: 70.36%
+MUTAÇÃO
+Porcentagem de realocação: 41.94%
+Porcentagem de realocação: 75.17%
+Porcentagem de realocação: 68.11%
+Porcentagem de realocação: 71.66%
+Porcentagem de realocação: 73.31%
+MUTAÇÃO
+Porcentagem de realocação: 41.18%
+Porcentagem de realocação: 72.71%
+Porcentagem de realocação: 81.54%
+Porcentagem de realocação: 81.73%
+Porcentagem de realocação: 81.74%
+Porcentagem de realocação: 81.27%
+Porcentagem de realocação: 68.65%
+Porcentagem de realocação: 76.43%
+Porcentagem de realocação: 76.14%
+Porcentagem de realocação: 69.35%
+[0.6698043  0.80312139 0.67001799 0.80051538 0.6697047  0.80097065
+ 0.66939948 0.80077785 0.79876683 0.79954638 0.70505014 0.79951592
+ 0.79885827 0.70681892 0.66987661 0.67024494 0.67002532 0.6684847
+ 0.66832395 0.80022519 0.80082363 0.80088536 0.6699717  0.66982604
+ 0.85451217 0.85429352 0.81640767 0.8394943  0.81265506 0.8058836
+ 0.85517773 0.85385842 0.83736305 0.8182828  0.71544001 0.82060253
+ 0.83997167 0.8290547  0.71419661 0.82762622 0.80132394 0.80089997
+ 0.80048515 0.80076574 0.83867593 0.81701462 0.81776206 0.83527174]
+[4.36696764 3.64321871 3.64151521 4.35527301 4.34328977 4.34752854
+ 4.34736293 3.64244998 3.6444528  3.63488148 3.6340074  4.35121961
+ 4.35480925 3.64296702 4.38198718 4.65002367 4.44940773 4.46202124
+ 4.56734084 3.88343973 4.50021252 4.35488868 4.35415884 4.44657624]
+0.8551777269583645
+Porcentagem de realocação: 68.79%
+Porcentagem de realocação: 67.43%
+Porcentagem de realocação: 66.99%
+Porcentagem de realocação: 76.65%
+Porcentagem de realocação: 57.26%
+Porcentagem de realocação: 56.63%
+Porcentagem de realocação: 60.05%
+Porcentagem de realocação: 59.41%
+Porcentagem de realocação: 70.54%
+Porcentagem de realocação: 73.06%
+Porcentagem de realocação: 62.38%
+Porcentagem de realocação: 62.56%
+Porcentagem de realocação: 59.76%
+Porcentagem de realocação: 58.58%
+MUTAÇÃO
+Porcentagem de realocação: 45.69%
+Porcentagem de realocação: 59.91%
+MUTAÇÃO
+Porcentagem de realocação: 45.45%
+Porcentagem de realocação: 60.01%
+Porcentagem de realocação: 76.06%
+Porcentagem de realocação: 69.66%
+Porcentagem de realocação: 69.82%
+MUTAÇÃO
+Porcentagem de realocação: 41.15%
+Porcentagem de realocação: 63.00%
+Porcentagem de realocação: 60.90%
+Porcentagem de realocação: 61.23%
+Porcentagem de realocação: 79.92%
+Porcentagem de realocação: 78.78%
+[0.8394943  0.71544001 0.70505014 0.66982604 0.6698043  0.67002532
+ 0.83736305 0.80082363 0.81701462 0.85385842 0.85429352 0.80132394
+ 0.81265506 0.70681892 0.79885827 0.80048515 0.66939948 0.85451217
+ 0.81640767 0.80051538 0.8290547  0.80077785 0.83867593 0.83527174
+ 0.8420807  0.8440373  0.84558974 0.81813796 0.87464237 0.88006042
+ 0.86618808 0.86805662 0.83509663 0.82682953 0.85488088 0.85675879
+ 0.86691502 0.72979018 0.72520372 0.86581865 0.81917083 0.83652147
+ 0.72696631 0.8610049  0.86360764 0.8608165  0.80683215 0.80904926]
+[4.39227889 3.50456553 3.50445178 3.50560819 4.3811281  4.18995193
+ 3.69811427 4.33765838 4.38799716 4.37018624 4.40581109 4.28054141
+ 4.60452303 4.53194218 4.36927007 4.47278232 3.8183011  3.79430449
+ 4.53000934 4.28594545 4.37672492 3.80352645 4.22138883 4.23298886]
+0.8800604219739049
+Porcentagem de realocação: 61.82%
+Porcentagem de realocação: 62.22%
+Porcentagem de realocação: 56.97%
+Porcentagem de realocação: 56.43%
+Porcentagem de realocação: 58.90%
+Porcentagem de realocação: 58.27%
+Porcentagem de realocação: 61.38%
+Porcentagem de realocação: 61.96%
+Porcentagem de realocação: 55.79%
+Porcentagem de realocação: 56.26%
+Porcentagem de realocação: 59.31%
+Porcentagem de realocação: 58.31%
+Porcentagem de realocação: 72.91%
+Porcentagem de realocação: 66.74%
+Porcentagem de realocação: 66.94%
+Porcentagem de realocação: 71.70%
+Porcentagem de realocação: 57.36%
+Porcentagem de realocação: 56.38%
+Porcentagem de realocação: 55.08%
+Porcentagem de realocação: 55.13%
+Porcentagem de realocação: 69.15%
+Porcentagem de realocação: 64.72%
+Porcentagem de realocação: 59.14%
+Porcentagem de realocação: 59.28%
+[0.81640767 0.81701462 0.70505014 0.86805662 0.66939948 0.86691502
+ 0.8440373  0.80077785 0.8610049  0.86360764 0.81265506 0.8608165
+ 0.80048515 0.80132394 0.85429352 0.85451217 0.84558974 0.80051538
+ 0.85675879 0.79885827 0.82682953 0.87464237 0.71544001 0.85385842
+ 0.856499   0.85491266 0.88094739 0.88410695 0.87015292 0.8732875
+ 0.85990846 0.8566259  0.88189932 0.88113611 0.86990648 0.87358407
+ 0.8334333  0.85142853 0.84506782 0.83316074 0.87715996 0.8826341
+ 0.88967116 0.88811687 0.83870827 0.85396043 0.86693898 0.87283204]
+[3.47888175 4.28319368 4.27756076 4.16467676 4.24746926 3.9497803
+ 4.21636225 3.94992948 3.53014777 4.21313646 4.22616573 4.34679974
+ 4.29353734 4.30900408 4.24298878 4.22679188 4.35149679 4.34773096
+ 4.29232135 4.11235418 4.20114685 4.16976161 4.3551224  4.21363983]
+0.8896711598213761
+Porcentagem de realocação: 56.23%
+Porcentagem de realocação: 55.39%
+Porcentagem de realocação: 54.88%
+Porcentagem de realocação: 54.80%
+Porcentagem de realocação: 65.27%
+Porcentagem de realocação: 77.71%
+Porcentagem de realocação: 60.62%
+Porcentagem de realocação: 57.73%
+Porcentagem de realocação: 60.98%
+Porcentagem de realocação: 60.41%
+Porcentagem de realocação: 57.57%
+Porcentagem de realocação: 59.67%
+Porcentagem de realocação: 59.48%
+Porcentagem de realocação: 56.03%
+Porcentagem de realocação: 53.47%
+Porcentagem de realocação: 53.85%
+MUTAÇÃO
+Porcentagem de realocação: 47.75%
+Porcentagem de realocação: 58.67%
+Porcentagem de realocação: 56.57%
+Porcentagem de realocação: 57.37%
+Porcentagem de realocação: 58.20%
+Porcentagem de realocação: 56.16%
+Porcentagem de realocação: 55.95%
+Porcentagem de realocação: 55.57%
+MUTAÇÃO
+Porcentagem de realocação: 47.18%
+Porcentagem de realocação: 54.70%
+[0.8610049  0.80077785 0.85429352 0.88811687 0.87464237 0.85491266
+ 0.85675879 0.87358407 0.83316074 0.88967116 0.87715996 0.86693898
+ 0.81265506 0.83870827 0.80132394 0.79885827 0.81640767 0.84558974
+ 0.88410695 0.81701462 0.82682953 0.86360764 0.87283204 0.66939948
+ 0.8815355  0.88657443 0.88810162 0.88596657 0.84860516 0.81085593
+ 0.86463902 0.87209688 0.85888546 0.86366317 0.87795899 0.86873104
+ 0.86931311 0.88880642 0.90131001 0.74214766 0.87440741 0.87804458
+ 0.88129405 0.87553249 0.88766363 0.88298428 0.73532895 0.89004447]
+[4.15317965 3.86266592 4.21896193 4.21385711 4.29145546 4.23110588
+ 4.04562873 4.16573435 4.21022956 4.27651794 4.28388455 3.91127898
+ 4.17070937 4.14295626 4.16600223 4.19044782 4.28728428 4.3475971
+ 3.57985487 4.23537301 4.2510473  4.22325555 4.28177184 4.25920033]
+0.9013100079962786
+Porcentagem de realocação: 57.61%
+Porcentagem de realocação: 58.59%
+MUTAÇÃO
+Porcentagem de realocação: 45.78%
+Porcentagem de realocação: 59.65%
+Porcentagem de realocação: 59.43%
+Porcentagem de realocação: 54.40%
+Porcentagem de realocação: 53.84%
+Porcentagem de realocação: 54.96%
+Porcentagem de realocação: 53.99%
+Porcentagem de realocação: 55.37%
+Porcentagem de realocação: 57.14%
+Porcentagem de realocação: 54.24%
+Porcentagem de realocação: 54.12%
+Porcentagem de realocação: 59.32%
+Porcentagem de realocação: 59.89%
+Porcentagem de realocação: 56.35%
+Porcentagem de realocação: 59.39%
+Porcentagem de realocação: 71.80%
+Porcentagem de realocação: 63.43%
+Porcentagem de realocação: 54.93%
+MUTAÇÃO
+Porcentagem de realocação: 47.24%
+Porcentagem de realocação: 55.96%
+Porcentagem de realocação: 65.46%
+Porcentagem de realocação: 74.28%
+Porcentagem de realocação: 56.34%
+MUTAÇÃO
+Porcentagem de realocação: 46.97%
+Porcentagem de realocação: 55.90%
+[0.85429352 0.81265506 0.89004447 0.88811687 0.66939948 0.81701462
+ 0.87209688 0.80132394 0.81640767 0.87440741 0.86693898 0.8815355
+ 0.79885827 0.85491266 0.84860516 0.88596657 0.82682953 0.85675879
+ 0.83316074 0.73532895 0.84558974 0.88410695 0.86931311 0.87795899
+ 0.88076071 0.73222582 0.87021984 0.86728091 0.89523324 0.89378247
+ 0.88600214 0.89480788 0.88919976 0.88163871 0.89524736 0.89655875
+ 0.86863124 0.86554899 0.88154447 0.86909952 0.83961669 0.85729588
+ 0.73958072 0.88440743 0.85334865 0.82489059 0.73638514 0.88538865]
+[4.17001176 4.34452075 3.26749959 4.23173729 4.17303395 4.32461552
+ 4.18204535 4.06685758 3.58931716 4.31553828 3.57417003 4.23340633
+ 4.3698484  4.36276682 4.32478914 4.36777211 4.34039751 4.37631849
+ 4.23999762 4.30303022 4.24228343 4.09837066 4.18466701 4.317005  ]
+0.8965587451075346
+Porcentagem de realocação: 62.41%
+Porcentagem de realocação: 67.63%
+Porcentagem de realocação: 52.55%
+Porcentagem de realocação: 52.83%
+Porcentagem de realocação: 57.14%
+Porcentagem de realocação: 57.15%
+Porcentagem de realocação: 54.26%
+Porcentagem de realocação: 53.65%
+Porcentagem de realocação: 56.64%
+Porcentagem de realocação: 60.05%
+Porcentagem de realocação: 55.81%
+Porcentagem de realocação: 59.25%
+Porcentagem de realocação: 58.50%
+Porcentagem de realocação: 57.56%
+MUTAÇÃO
+Porcentagem de realocação: 46.30%
+Porcentagem de realocação: 57.78%
+Porcentagem de realocação: 58.37%
+Porcentagem de realocação: 56.02%
+Porcentagem de realocação: 55.61%
+Porcentagem de realocação: 55.58%
+Porcentagem de realocação: 56.12%
+Porcentagem de realocação: 68.16%
+Porcentagem de realocação: 66.42%
+Porcentagem de realocação: 57.86%
+Porcentagem de realocação: 59.18%
+[0.88163871 0.84558974 0.81640767 0.88811687 0.86931311 0.81701462
+ 0.79885827 0.87209688 0.88538865 0.73638514 0.85334865 0.8815355
+ 0.88076071 0.84860516 0.73958072 0.89524736 0.87021984 0.82682953
+ 0.80132394 0.87440741 0.82489059 0.86554899 0.81265506 0.87795899
+ 0.87095481 0.85666214 0.90520823 0.90556426 0.88036862 0.87955184
+ 0.89691539 0.89934179 0.88105202 0.8641476  0.88817664 0.87172124
+ 0.87265647 0.73080182 0.87859835 0.87334551 0.88731021 0.88752367
+ 0.8867489  0.88538759 0.85005201 0.85313665 0.87364584 0.86599222]
+[4.30502369 4.12899732 4.33665642 4.25843114 4.30451971 3.61135743
+ 4.24926559 3.91284833 4.26971337 4.02792379 4.2264579  3.96817793
+ 4.28705568 4.21961494 4.25659688 4.2611636  3.56849025 4.33271751
+ 4.33375983 4.32997664 4.15078648 4.16584872 4.26599468 4.22862219]
+0.9055642627252297
+Porcentagem de realocação: 54.02%
+Porcentagem de realocação: 56.20%
+MUTAÇÃO
+Porcentagem de realocação: 46.82%
+Porcentagem de realocação: 56.43%
+Porcentagem de realocação: 55.11%
+Porcentagem de realocação: 53.69%
+Porcentagem de realocação: 54.03%
+Porcentagem de realocação: 52.11%
+Porcentagem de realocação: 52.12%
+Porcentagem de realocação: 56.76%
+Porcentagem de realocação: 59.86%
+Porcentagem de realocação: 55.82%
+Porcentagem de realocação: 54.43%
+Porcentagem de realocação: 53.73%
+Porcentagem de realocação: 54.25%
+Porcentagem de realocação: 58.82%
+Porcentagem de realocação: 57.95%
+Porcentagem de realocação: 58.88%
+Porcentagem de realocação: 70.31%
+Porcentagem de realocação: 60.51%
+Porcentagem de realocação: 57.11%
+MUTAÇÃO
+Porcentagem de realocação: 46.81%
+Porcentagem de realocação: 53.69%
+Porcentagem de realocação: 53.80%
+Porcentagem de realocação: 52.95%
+Porcentagem de realocação: 52.14%
+[0.87859835 0.88817664 0.87334551 0.88538865 0.88076071 0.90520823
+ 0.81640767 0.88105202 0.84860516 0.87955184 0.86931311 0.88036862
+ 0.89524736 0.89934179 0.90556426 0.88538759 0.87095481 0.73638514
+ 0.81701462 0.79885827 0.85334865 0.85666214 0.82682953 0.89691539
+ 0.89953924 0.74790988 0.88307881 0.89186877 0.89791128 0.89710083
+ 0.91248214 0.90864379 0.88837054 0.86837321 0.88657132 0.89177866
+ 0.89768292 0.89533813 0.86986312 0.87449821 0.8819164  0.84778177
+ 0.86578602 0.73165432 0.89840905 0.89661979 0.90510971 0.91020967]
+[4.27639879 4.37212673 3.94322289 4.25545304 4.09873575 4.25215225
+ 4.32401605 4.2763937  4.20668383 3.94615443 3.85845985 4.1376507
+ 4.3447457  3.61238075 4.30769756 4.40725949 4.38872037 4.19421479
+ 4.30726234 4.33577973 4.3244545  4.20141102 4.0947588  3.53386694]
+0.9124821377193255
+Porcentagem de realocação: 52.62%
+MUTAÇÃO
+Porcentagem de realocação: 48.61%
+Porcentagem de realocação: 52.67%
+Porcentagem de realocação: 53.44%
+Porcentagem de realocação: 53.37%
+Porcentagem de realocação: 53.28%
+Porcentagem de realocação: 52.27%
+Porcentagem de realocação: 52.86%
+Porcentagem de realocação: 53.12%
+Porcentagem de realocação: 54.38%
+Porcentagem de realocação: 54.64%
+Porcentagem de realocação: 53.31%
+Porcentagem de realocação: 52.64%
+Porcentagem de realocação: 53.00%
+Porcentagem de realocação: 53.15%
+Porcentagem de realocação: 51.52%
+Porcentagem de realocação: 52.22%
+Porcentagem de realocação: 56.59%
+Porcentagem de realocação: 56.37%
+Porcentagem de realocação: 53.09%
+Porcentagem de realocação: 53.98%
+Porcentagem de realocação: 55.56%
+Porcentagem de realocação: 55.52%
+Porcentagem de realocação: 64.06%
+Porcentagem de realocação: 64.33%
+[0.87955184 0.89710083 0.86931311 0.88657132 0.90510971 0.88076071
+ 0.89840905 0.87449821 0.87334551 0.87859835 0.89691539 0.88837054
+ 0.89661979 0.89791128 0.89934179 0.8819164  0.88307881 0.91020967
+ 0.85334865 0.73638514 0.86578602 0.82682953 0.90556426 0.88817664
+ 0.74182247 0.90487201 0.90324737 0.90327758 0.90069818 0.90730931
+ 0.90564276 0.9018706  0.89379555 0.89026217 0.90247135 0.90928166
+ 0.90638314 0.90776792 0.91438554 0.91455632 0.88512326 0.88237715
+ 0.90460665 0.89772481 0.8867594  0.88688023 0.87043412 0.87010797]
+[4.15619896 4.27696913 4.16191131 4.24530606 4.12687182 4.238248
+ 4.24295393 4.24971359 4.30106823 3.47968481 4.09115051 4.27911704
+ 3.50537815 4.26816887 4.28736299 4.26166316 4.20680915 4.29668307
+ 4.32160776 4.18252597 4.27459196 4.2420728  4.19082827 4.11311445]
+0.9145563224887072
+Porcentagem de realocação: 53.11%
+Porcentagem de realocação: 52.19%
+Porcentagem de realocação: 54.52%
+Porcentagem de realocação: 56.58%
+Porcentagem de realocação: 52.79%
+Porcentagem de realocação: 52.31%
+Porcentagem de realocação: 53.24%
+Porcentagem de realocação: 52.25%
+Porcentagem de realocação: 53.71%
+Porcentagem de realocação: 52.87%
+Porcentagem de realocação: 52.31%
+Porcentagem de realocação: 52.05%
+Porcentagem de realocação: 54.07%
+Porcentagem de realocação: 54.80%
+Porcentagem de realocação: 54.91%
+MUTAÇÃO
+Porcentagem de realocação: 47.65%
+Porcentagem de realocação: 55.27%
+Porcentagem de realocação: 52.43%
+Porcentagem de realocação: 53.74%
+Porcentagem de realocação: 52.81%
+Porcentagem de realocação: 52.71%
+Porcentagem de realocação: 53.51%
+Porcentagem de realocação: 52.94%
+Porcentagem de realocação: 52.69%
+Porcentagem de realocação: 53.20%
+MUTAÇÃO
+Porcentagem de realocação: 48.61%
+[0.90327758 0.8867594  0.88307881 0.89710083 0.87010797 0.82682953
+ 0.88837054 0.90564276 0.8819164  0.90487201 0.90776792 0.88817664
+ 0.88237715 0.90638314 0.89379555 0.87449821 0.91438554 0.88657132
+ 0.89661979 0.90069818 0.87859835 0.90247135 0.85334865 0.86931311
+ 0.90733991 0.9156585  0.90088511 0.88420125 0.91505893 0.91274746
+ 0.90822934 0.91233139 0.89862506 0.90683406 0.90626505 0.90749915
+ 0.89975232 0.89734284 0.73679676 0.89018676 0.90782589 0.89767152
+ 0.90538572 0.90268135 0.90465883 0.90347069 0.9057813  0.74046189]
+[4.23398478 4.1565582  4.07850697 3.87564546 4.16411015 4.24507124
+ 4.13385732 4.24145845 4.24854165 4.18953915 4.09908561 4.22189422
+ 4.22277045 4.1445672  4.2892082  4.25719544 4.27642324 4.21217677
+ 4.25065528 4.24798812 4.25377278 4.24045919 4.24572063 3.47080949]
+0.9156584990825894
+Porcentagem de realocação: 54.08%
+Porcentagem de realocação: 53.07%
+Porcentagem de realocação: 51.77%
+Porcentagem de realocação: 51.74%
+Porcentagem de realocação: 52.91%
+Porcentagem de realocação: 52.39%
+Porcentagem de realocação: 58.97%
+Porcentagem de realocação: 68.63%
+Porcentagem de realocação: 51.66%
+Porcentagem de realocação: 51.47%
+Porcentagem de realocação: 55.47%
+Porcentagem de realocação: 53.64%
+Porcentagem de realocação: 51.91%
+Porcentagem de realocação: 51.86%
+Porcentagem de realocação: 52.69%
+Porcentagem de realocação: 52.00%
+Porcentagem de realocação: 52.76%
+Porcentagem de realocação: 53.15%
+Porcentagem de realocação: 52.03%
+Porcentagem de realocação: 53.05%
+Porcentagem de realocação: 52.86%
+Porcentagem de realocação: 52.47%
+Porcentagem de realocação: 52.96%
+Porcentagem de realocação: 52.82%
+[0.87859835 0.90247135 0.88657132 0.90268135 0.91274746 0.90538572
+ 0.9156585  0.89661979 0.89975232 0.73679676 0.88307881 0.91438554
+ 0.88817664 0.86931311 0.88237715 0.89767152 0.89734284 0.89018676
+ 0.90776792 0.85334865 0.89710083 0.90733991 0.90347069 0.90782589
+ 0.89944805 0.90788019 0.91616532 0.9152866  0.90924544 0.91029673
+ 0.89412273 0.86005983 0.91501958 0.91537407 0.88783549 0.89628659
+ 0.91386917 0.90980948 0.90663511 0.90974013 0.90395384 0.90128582
+ 0.91272372 0.9036136  0.91099061 0.9159422  0.90308719 0.90145379]
+[4.13520021 4.22295549 4.18206886 4.19667981 3.43661255 4.26493298
+ 4.14268784 4.11563748 4.23406669 4.23433705 4.19526063 4.23459035
+ 4.24095821 4.24586171 4.17042195 4.01154366 4.1410966  4.18051474
+ 4.2625245  4.20383247 4.21468983 4.24909815 4.27219367 4.21223454]
+0.916165322054946
+Porcentagem de realocação: 51.97%
+Porcentagem de realocação: 51.31%
+Porcentagem de realocação: 51.75%
+Porcentagem de realocação: 51.26%
+MUTAÇÃO
+Porcentagem de realocação: 49.79%
+Porcentagem de realocação: 51.76%
+Porcentagem de realocação: 51.21%
+Porcentagem de realocação: 52.71%
+Porcentagem de realocação: 52.31%
+Porcentagem de realocação: 51.59%
+Porcentagem de realocação: 51.27%
+Porcentagem de realocação: 52.76%
+Porcentagem de realocação: 53.82%
+MUTAÇÃO
+Porcentagem de realocação: 47.62%
+Porcentagem de realocação: 55.01%
+Porcentagem de realocação: 53.09%
+Porcentagem de realocação: 51.63%
+Porcentagem de realocação: 51.46%
+Porcentagem de realocação: 52.36%
+Porcentagem de realocação: 52.12%
+Porcentagem de realocação: 51.75%
+Porcentagem de realocação: 52.39%
+Porcentagem de realocação: 51.45%
+Porcentagem de realocação: 51.70%
+MUTAÇÃO
+Porcentagem de realocação: 49.79%
+Porcentagem de realocação: 52.83%
+Porcentagem de realocação: 52.21%
+[0.90247135 0.91501958 0.90347069 0.91616532 0.90974013 0.86931311
+ 0.90733991 0.90395384 0.91272372 0.85334865 0.90980948 0.87859835
+ 0.90145379 0.89767152 0.90268135 0.89734284 0.91274746 0.89018676
+ 0.91537407 0.9156585  0.89710083 0.9152866  0.88307881 0.90663511
+ 0.91422809 0.91583904 0.91653285 0.75030214 0.91672685 0.92358768
+ 0.90762938 0.91190077 0.9158076  0.91574655 0.90418775 0.74024293
+ 0.89226416 0.90324635 0.91888365 0.92020132 0.91283325 0.91000244
+ 0.91338946 0.90830657 0.91581749 0.7484884  0.90331582 0.91101938]
+[4.19516298 4.25349374 4.25881977 4.22895209 4.20205434 4.19043282
+ 4.19613916 4.24293176 4.25646379 4.21451832 3.48780017 4.29332282
+ 4.21914022 4.23899589 4.2571569  4.20314171 4.14771455 4.2775812
+ 4.24333054 4.22228816 4.25720286 3.47936898 4.19908851 4.23489873]
+0.9235876838030389
+Porcentagem de realocação: 51.81%
+Porcentagem de realocação: 53.78%
+Porcentagem de realocação: 51.80%
+Porcentagem de realocação: 52.33%
+Porcentagem de realocação: 53.26%
+Porcentagem de realocação: 54.72%
+Porcentagem de realocação: 51.81%
+MUTAÇÃO
+Porcentagem de realocação: 49.16%
+Porcentagem de realocação: 52.14%
+MUTAÇÃO
+Porcentagem de realocação: 48.92%
+Porcentagem de realocação: 50.93%
+Porcentagem de realocação: 51.46%
+Porcentagem de realocação: 52.58%
+Porcentagem de realocação: 51.62%
+Porcentagem de realocação: 50.94%
+MUTAÇÃO
+Porcentagem de realocação: 49.67%
+Porcentagem de realocação: 51.98%
+Porcentagem de realocação: 64.24%
+Porcentagem de realocação: 66.38%
+Porcentagem de realocação: 52.69%
+Porcentagem de realocação: 52.36%
+Porcentagem de realocação: 51.32%
+Porcentagem de realocação: 51.39%
+Porcentagem de realocação: 51.02%
+Porcentagem de realocação: 50.85%
+Porcentagem de realocação: 51.63%
+Porcentagem de realocação: 51.54%
+[0.91537407 0.86931311 0.74024293 0.91272372 0.90980948 0.90324635
+ 0.91422809 0.90347069 0.91338946 0.91888365 0.9152866  0.91672685
+ 0.91000244 0.87859835 0.89734284 0.90733991 0.89018676 0.89710083
+ 0.91583904 0.85334865 0.89767152 0.88307881 0.91574655 0.91653285
+ 0.90949918 0.89956965 0.91680718 0.9111412  0.90261431 0.8964214
+ 0.75297277 0.75160234 0.92244222 0.92253529 0.90923336 0.91368617
+ 0.75056153 0.91407195 0.86573695 0.86124486 0.9122342  0.91138449
+ 0.9191699  0.91806891 0.92036633 0.92272811 0.91773285 0.91971276]
+[4.31465876 4.09754828 3.48916992 4.30216621 4.25749421 4.30925714
+ 4.33120135 4.22966772 4.27678937 4.02229905 4.31641447 4.32141379
+ 4.29470694 3.54917259 3.542713   4.34841354 4.28571426 4.3067028
+ 4.30852118 4.08069188 4.0595182  4.29585372 4.33255062 4.32736102]
+0.9227281143795004
+Porcentagem de realocação: 50.51%
+Porcentagem de realocação: 50.78%
+Porcentagem de realocação: 53.01%
+Porcentagem de realocação: 52.96%
+Porcentagem de realocação: 59.42%
+Porcentagem de realocação: 67.51%
+Porcentagem de realocação: 52.63%
+Porcentagem de realocação: 52.81%
+Porcentagem de realocação: 52.97%
+MUTAÇÃO
+Porcentagem de realocação: 48.94%
+Porcentagem de realocação: 52.61%
+Porcentagem de realocação: 51.97%
+Porcentagem de realocação: 51.83%
+Porcentagem de realocação: 51.24%
+MUTAÇÃO
+Porcentagem de realocação: 49.33%
+Porcentagem de realocação: 50.65%
+Porcentagem de realocação: 50.53%
+Porcentagem de realocação: 50.60%
+Porcentagem de realocação: 51.57%
+Porcentagem de realocação: 51.48%
+Porcentagem de realocação: 51.37%
+Porcentagem de realocação: 50.37%
+MUTAÇÃO
+Porcentagem de realocação: 49.98%
+Porcentagem de realocação: 51.54%
+Porcentagem de realocação: 51.30%
+Porcentagem de realocação: 50.90%
+Porcentagem de realocação: 51.13%
+MUTAÇÃO
+Porcentagem de realocação: 49.91%
+[0.89767152 0.91773285 0.90261431 0.91653285 0.90347069 0.88307881
+ 0.9122342  0.92036633 0.8964214  0.91672685 0.75056153 0.90949918
+ 0.87859835 0.91338946 0.92272811 0.89956965 0.89018676 0.9152866
+ 0.89710083 0.91583904 0.91000244 0.91971276 0.92244222 0.90980948
+ 0.92516703 0.9278136  0.90206056 0.90907465 0.89820135 0.87135403
+ 0.90861353 0.90735732 0.74585586 0.91252938 0.91061034 0.91216821
+ 0.75305612 0.92408097 0.92287381 0.92395553 0.91662982 0.91909747
+ 0.92174416 0.75321151 0.91385842 0.90990161 0.92083728 0.75330161]
+[4.20777489 4.30181101 4.2309439  4.23495809 4.29709545 3.51820671
+ 4.26321624 4.11837069 4.28145169 4.21667227 4.1726906  4.26467079
+ 4.33665824 4.26122632 4.08441345 4.27742013 4.27572714 3.52989994
+ 4.33156742 4.33097941 4.29664066 4.32061378 3.53062832 4.31636284]
+0.9278136001514322
+Porcentagem de realocação: 50.56%
+Porcentagem de realocação: 50.66%
+Porcentagem de realocação: 50.57%
+Porcentagem de realocação: 51.89%
+Porcentagem de realocação: 50.59%
+Porcentagem de realocação: 50.98%
+Porcentagem de realocação: 52.28%
+Porcentagem de realocação: 51.83%
+Porcentagem de realocação: 65.91%
+Porcentagem de realocação: 61.57%
+Porcentagem de realocação: 53.41%
+Porcentagem de realocação: 53.79%
+Porcentagem de realocação: 50.83%
+Porcentagem de realocação: 50.73%
+Porcentagem de realocação: 50.87%
+MUTAÇÃO
+Porcentagem de realocação: 49.98%
+Porcentagem de realocação: 50.41%
+Porcentagem de realocação: 51.43%
+Porcentagem de realocação: 50.67%
+Porcentagem de realocação: 65.89%
+Porcentagem de realocação: 60.78%
+Porcentagem de realocação: 51.93%
+Porcentagem de realocação: 51.19%
+Porcentagem de realocação: 50.92%
+Porcentagem de realocação: 50.59%
+[0.92287381 0.88307881 0.92244222 0.91909747 0.91653285 0.9152866
+ 0.91061034 0.9278136  0.91971276 0.90206056 0.75330161 0.90735732
+ 0.91583904 0.90861353 0.92272811 0.90990161 0.74585586 0.9122342
+ 0.89820135 0.8964214  0.89710083 0.91385842 0.92036633 0.91000244
+ 0.92811888 0.92797189 0.92741615 0.91457235 0.92186982 0.92028268
+ 0.90999459 0.91540099 0.87339464 0.88749447 0.90744714 0.91054472
+ 0.92117349 0.92058289 0.75558313 0.92743259 0.92198492 0.92598637
+ 0.87448278 0.8925574  0.91161376 0.91844452 0.91880642 0.92236991]
+[4.26704012 4.25156797 4.23970454 4.25441419 4.19726027 4.20902966
+ 3.45018564 4.14667281 4.22733312 4.2094961  4.29329927 4.29261931
+ 4.26439233 4.2570505  4.2094598  4.19767575 4.2584392  3.49518208
+ 4.2901246  4.26492474 4.28343468 4.04518901 4.12879869 4.26670561]
+0.928118881630893
+Porcentagem de realocação: 52.68%
+Porcentagem de realocação: 50.74%
+Porcentagem de realocação: 51.05%
+Porcentagem de realocação: 51.05%
+Porcentagem de realocação: 52.14%
+MUTAÇÃO
+Porcentagem de realocação: 48.94%
+Porcentagem de realocação: 53.07%
+Porcentagem de realocação: 50.77%
+Porcentagem de realocação: 50.36%
+Porcentagem de realocação: 51.03%
+MUTAÇÃO
+Porcentagem de realocação: 49.85%
+Porcentagem de realocação: 51.03%
+Porcentagem de realocação: 51.22%
+MUTAÇÃO
+Porcentagem de realocação: 49.68%
+Porcentagem de realocação: 51.29%
+Porcentagem de realocação: 54.97%
+Porcentagem de realocação: 51.73%
+Porcentagem de realocação: 50.89%
+Porcentagem de realocação: 50.24%
+Porcentagem de realocação: 51.45%
+Porcentagem de realocação: 52.07%
+Porcentagem de realocação: 53.18%
+MUTAÇÃO
+Porcentagem de realocação: 48.69%
+Porcentagem de realocação: 53.37%
+Porcentagem de realocação: 57.28%
+Porcentagem de realocação: 69.45%
+Porcentagem de realocação: 51.08%
+Porcentagem de realocação: 50.52%
+[0.9152866  0.92272811 0.91540099 0.90206056 0.89710083 0.92287381
+ 0.88307881 0.9278136  0.89820135 0.92741615 0.91880642 0.88749447
+ 0.91844452 0.87339464 0.92036633 0.91161376 0.91457235 0.91054472
+ 0.90861353 0.9122342  0.91061034 0.75330161 0.91583904 0.92117349
+ 0.91880721 0.92882802 0.92187583 0.92325627 0.74489711 0.90625084
+ 0.9267344  0.929564   0.75239456 0.92256569 0.75725549 0.92486857
+ 0.90925488 0.92426755 0.9198048  0.92111005 0.91507834 0.91607212
+ 0.75098949 0.9093904  0.90665482 0.86849289 0.92069337 0.92479055]
+[4.28334149 4.24932866 4.0992878  4.30694852 4.30510357 4.23462833
+ 4.22709027 3.49685674 4.27612486 4.26514047 4.27938516 4.20685333
+ 4.30193881 4.31507394 3.49264619 4.28258753 4.29327757 4.29048763
+ 4.26977136 4.27583038 4.24783093 3.48612378 4.22142728 4.29291539]
+0.9295639970003783
+Porcentagem de realocação: 51.08%
+Porcentagem de realocação: 50.81%
+Porcentagem de realocação: 65.30%
+Porcentagem de realocação: 61.97%
+MUTAÇÃO
+Porcentagem de realocação: 44.87%
+Porcentagem de realocação: 51.64%
+MUTAÇÃO
+Porcentagem de realocação: 49.23%
+Porcentagem de realocação: 50.38%
+Porcentagem de realocação: 56.78%
+Porcentagem de realocação: 70.17%
+Porcentagem de realocação: 53.69%
+Porcentagem de realocação: 52.22%
+Porcentagem de realocação: 50.96%
+Porcentagem de realocação: 51.59%
+Porcentagem de realocação: 52.35%
+MUTAÇÃO
+Porcentagem de realocação: 49.08%
+Porcentagem de realocação: 56.82%
+MUTAÇÃO
+Porcentagem de realocação: 46.49%
+Porcentagem de realocação: 52.22%
+Porcentagem de realocação: 51.83%
+Porcentagem de realocação: 51.90%
+Porcentagem de realocação: 52.23%
+MUTAÇÃO
+Porcentagem de realocação: 48.68%
+Porcentagem de realocação: 53.19%
+Porcentagem de realocação: 54.90%
+Porcentagem de realocação: 50.29%
+Porcentagem de realocação: 50.92%
+Porcentagem de realocação: 52.48%
+Porcentagem de realocação: 51.68%
+[0.91054472 0.75725549 0.92882802 0.86849289 0.91457235 0.92036633
+ 0.90925488 0.92069337 0.91583904 0.88749447 0.90665482 0.89710083
+ 0.91880642 0.91607212 0.90206056 0.9152866  0.91844452 0.89820135
+ 0.91161376 0.90861353 0.92287381 0.74489711 0.92325627 0.87339464
+ 0.91882751 0.92058699 0.87723751 0.75045608 0.75706454 0.92668356
+ 0.90335218 0.85969268 0.91401342 0.91862222 0.92338633 0.91201137
+ 0.75575333 0.76300031 0.92205706 0.9234522  0.92462027 0.76103237
+ 0.91571016 0.91111485 0.93164553 0.92950031 0.9220612  0.92592849]
+[3.54432724 4.28064731 4.30929669 4.28657605 4.15390959 4.19887205
+ 4.287667   4.22208601 4.29877099 4.31950222 4.32129234 4.08791546
+ 4.30879879 4.10590197 3.51250265 3.54343349 4.02378357 4.27803126
+ 4.3219011  4.2686607  4.31567942 4.32220938 4.32767653 4.3605582 ]
+0.9316455331031364
+Porcentagem de realocação: 54.08%
+Porcentagem de realocação: 57.09%
+Porcentagem de realocação: 50.28%
+Porcentagem de realocação: 50.55%
+Porcentagem de realocação: 50.91%
+Porcentagem de realocação: 50.76%
+Porcentagem de realocação: 63.92%
+Porcentagem de realocação: 63.39%
+Porcentagem de realocação: 50.81%
+Porcentagem de realocação: 52.20%
+Porcentagem de realocação: 52.11%
+MUTAÇÃO
+Porcentagem de realocação: 49.38%
+Porcentagem de realocação: 51.90%
+Porcentagem de realocação: 52.09%
+Porcentagem de realocação: 53.30%
+Porcentagem de realocação: 75.39%
+MUTAÇÃO
+Porcentagem de realocação: 39.48%
+Porcentagem de realocação: 75.49%
+Porcentagem de realocação: 51.54%
+Porcentagem de realocação: 51.68%
+Porcentagem de realocação: 51.47%
+Porcentagem de realocação: 51.45%
+Porcentagem de realocação: 67.94%
+Porcentagem de realocação: 58.85%
+Porcentagem de realocação: 50.73%
+Porcentagem de realocação: 50.76%
+[0.74489711 0.76103237 0.92668356 0.91571016 0.9152866  0.91111485
+ 0.90861353 0.92036633 0.90925488 0.86849289 0.89820135 0.9220612
+ 0.90335218 0.92882802 0.91161376 0.92592849 0.91882751 0.75575333
+ 0.91880642 0.91054472 0.92950031 0.76300031 0.90665482 0.91862222
+ 0.91286127 0.90273845 0.93177889 0.92719789 0.9244504  0.9304492
+ 0.88295604 0.88443494 0.93174574 0.92565557 0.76243151 0.92501904
+ 0.91745422 0.91444271 0.76106518 0.85376367 0.92304879 0.92546752
+ 0.92673855 0.92468621 0.87238069 0.89693377 0.92620863 0.92744791]
+[4.32453636 4.27332703 4.25188218 4.24320228 4.05297907 4.191619
+ 4.25421044 4.28787468 3.52685955 4.28777625 4.24922157 4.23106865
+ 4.26003215 4.2127922  4.34831467 4.12047398 4.34815995 4.31973908
+ 3.5580245  4.31676857 4.28146599 3.55164825 4.1857036  4.32232   ]
+0.9317788947125317
+Porcentagem de realocação: 50.55%
+Porcentagem de realocação: 50.64%
+Porcentagem de realocação: 51.04%
+Porcentagem de realocação: 51.03%
+Porcentagem de realocação: 62.51%
+Porcentagem de realocação: 71.28%
+Porcentagem de realocação: 53.59%
+MUTAÇÃO
+Porcentagem de realocação: 48.08%
+Porcentagem de realocação: 52.68%
+Porcentagem de realocação: 57.44%
+MUTAÇÃO
+Porcentagem de realocação: 46.95%
+Porcentagem de realocação: 69.65%
+Porcentagem de realocação: 50.50%
+Porcentagem de realocação: 51.10%
+Porcentagem de realocação: 51.09%
+Porcentagem de realocação: 50.72%
+Porcentagem de realocação: 69.92%
+Porcentagem de realocação: 56.92%
+Porcentagem de realocação: 54.71%
+Porcentagem de realocação: 57.37%
+Porcentagem de realocação: 51.85%
+Porcentagem de realocação: 51.32%
+Porcentagem de realocação: 51.04%
+Porcentagem de realocação: 50.55%
+MUTAÇÃO
+Porcentagem de realocação: 50.26%
+Porcentagem de realocação: 50.56%
+Porcentagem de realocação: 50.54%
+[0.92744791 0.92719789 0.9220612  0.74489711 0.88443494 0.87238069
+ 0.90861353 0.91862222 0.90335218 0.92036633 0.92592849 0.9304492
+ 0.76103237 0.85376367 0.76300031 0.9152866  0.92468621 0.9244504
+ 0.92304879 0.91444271 0.92882802 0.92673855 0.92950031 0.92546752
+ 0.93171497 0.92965829 0.93134429 0.93336055 0.88924754 0.86622839
+ 0.76318954 0.9210181  0.76467901 0.87272872 0.92462393 0.92351851
+ 0.93103614 0.9270319  0.86057739 0.91071118 0.90976927 0.90360182
+ 0.92256398 0.92834887 0.92805098 0.75840252 0.93105737 0.92722395]
+[4.32952429 4.30553863 3.47827597 4.12984389 4.0735569  4.24274515
+ 4.21817741 3.5536191  4.31779605 4.31669494 4.33713613 4.32737939
+ 4.34027535 4.32144437 4.34101304 4.07518201 4.34744686 4.01844176
+ 4.25254007 4.24814181 4.2193431  4.33489876 3.54133907 4.32964596]
+0.9333605547882763
+Porcentagem de realocação: 50.09%
+Porcentagem de realocação: 50.69%
+MUTAÇÃO
+Porcentagem de realocação: 49.73%
+Porcentagem de realocação: 50.68%
+Porcentagem de realocação: 50.30%
+Porcentagem de realocação: 55.92%
+Porcentagem de realocação: 55.31%
+Porcentagem de realocação: 67.36%
+Porcentagem de realocação: 59.83%
+Porcentagem de realocação: 68.24%
+Porcentagem de realocação: 59.17%
+Porcentagem de realocação: 54.08%
+Porcentagem de realocação: 55.20%
+Porcentagem de realocação: 65.77%
+Porcentagem de realocação: 61.11%
+Porcentagem de realocação: 51.18%
+Porcentagem de realocação: 51.13%
+Porcentagem de realocação: 49.85%
+Porcentagem de realocação: 50.45%
+Porcentagem de realocação: 51.47%
+Porcentagem de realocação: 51.50%
+Porcentagem de realocação: 52.45%
+Porcentagem de realocação: 53.52%
+Porcentagem de realocação: 50.70%
+Porcentagem de realocação: 50.82%
+[0.76300031 0.91862222 0.92256398 0.86622839 0.93134429 0.92805098
+ 0.93336055 0.76318954 0.9152866  0.92592849 0.9210181  0.91444271
+ 0.93171497 0.92462393 0.92351851 0.92036633 0.9270319  0.92304879
+ 0.9304492  0.76467901 0.88924754 0.93105737 0.85376367 0.92744791
+ 0.93565847 0.76017158 0.93211269 0.93180462 0.90893495 0.90952094
+ 0.87900314 0.90164632 0.87641785 0.90132285 0.91735686 0.90983832
+ 0.88527275 0.90043801 0.92748403 0.93065476 0.93370895 0.9345348
+ 0.92313682 0.92371474 0.92512677 0.91992919 0.93151648 0.92943952]
+[3.52337701 4.26020895 4.28554673 4.31006526 3.52425085 4.2266035
+ 4.27574553 4.25307037 4.22270656 4.30246629 4.26972133 4.28084086
+ 4.29662123 3.53112889 4.19727289 4.19997886 4.16361552 4.23616353
+ 4.20144445 4.29757046 4.31167409 4.2628542  4.26552291 4.30154972]
+0.9356584687597198
+[0.93211269 0.87641785 0.88527275 0.92036633 0.93180462 0.92744791
+ 0.92748403 0.93565847 0.90043801 0.92304879 0.90132285 0.93105737
+ 0.91862222 0.85376367 0.92512677 0.9345348  0.93134429 0.92351851
+ 0.91992919 0.86622839 0.76017158 0.87900314 0.88924754 0.92943952]
+[8.46383821 8.03851874 8.49603485 8.17622345 8.38153552 8.45425565
+ 8.34134109 8.40040411 8.48583162 8.45686091 7.86559074 8.43956512]
+0.9356584687597198
+[0.87900314 0.91992919 0.92744791 0.76017158 0.90132285 0.87641785
+ 0.92036633 0.85376367 0.92351851 0.88924754 0.92748403 0.93180462]
+[16.34757283 17.10870953 16.29949203 17.11683946 15.87817278 17.24921337]
+0.9318046216677642
+[0.88924754 0.93180462 0.76017158 0.92351851 0.90132285 0.92744791]
+[33.80211419 33.50152733 32.69635848]
+0.9318046216677642
+[0.76017158 0.88924754 0.92744791]
+[45.04401537 54.95598463]
+0.9274479101306072
