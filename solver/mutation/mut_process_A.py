@@ -36,7 +36,7 @@ class mut_process_A(mutation):
         pass
     
     def _get_probability_of_mask(self, mask):
-        return  self._get_weight_of_mask(mask) / 24
+        return  np.sum(mask) / 24
     
     def _is_reforest_point_reallocated(self, mask) -> bool:
         reallocation_probability = random.random()
