@@ -29,12 +29,13 @@ class solver_A(solver):
         solutions = self.constructive.construct_init(self.data.mapa_binario_restauravel)
 
         for i in range(100):
+            print(np.sum(solutions[0]))
             solutions = self.selector.select(solutions, self.data.mapa_binario_floresta)
             offspring = self.reproduction.reproduction_init(solutions, self.data.mapa_binario_restauravel)
 
             for i in range(len(offspring)):
                 offspring[i] = self.adaptation.mut(offspring[i], self.data.mapa_binario_floresta, self.data.mapa_binario_restauravel)
-                if random.random() < 0.1:
+                if random.random() < 0.05:
                     print("MUTAÇÃO")
                     offspring[i] = self.mutation.mut(offspring[i], self.data.mapa_binario_floresta, self.data.mapa_binario_restauravel)
             
@@ -47,9 +48,9 @@ class solver_A(solver):
         final_solution = solutions[0]
 
         # Salvar como .npy
-        np.save('jp_solo_5_A.npy', final_solution)
+        np.save('uso_solo_B.npy', final_solution)
 
         # Se quiser também salvar como .csv
-        np.savetxt('jp_solo_5_A.csv', final_solution, fmt='%d', delimiter=',')
+        np.savetxt('uso_solo_B.csv', final_solution, fmt='%d', delimiter=',')
         
         return solutions

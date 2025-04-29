@@ -95,10 +95,29 @@ class mut_process_A(mutation):
 
         weight_array = weight_matrix.flatten()
 
-        random_index = np.random.choice(len(weight_array), size=self.count, p=weight_array)
-        random_index = np.unravel_index(random_index, weight_matrix.shape)
+        # Lista de índices candidatos
+        all_indices = np.arange(len(weight_array))
 
-        for num in range(self.count):
-            i, j = random_index[0][num], random_index[1][num]
-            self.curr_sol[i][j] = 1
-            self.union_map[i][j] = 1
+        # Escolher uma lista grande para evitar ficar sem opções
+        candidate_indices = np.random.choice(all_indices, size=min(len(all_indices), self.count * 3), p=weight_array, replace=False)
+        candidate_indices = list(candidate_indices)  # Transformar em lista para pop()
+
+        filled = 0
+
+        while filled < self.count:
+            if not candidate_indices:
+                # Se acabar candidatos, sorteia mais (pode acontecer em casos extremos)
+                candidate_indices = np.random.choice(all_indices, size=min(len(all_indices), self.count * 3), p=weight_array, replace=False)
+                candidate_indices = list(candidate_indices)
+
+            idx = candidate_indices.pop()
+            i, j = np.unravel_index(idx, weight_matrix.shape)
+
+            if self.curr_sol[i][j] == 0:
+                self.curr_sol[i][j] = 1
+                self.union_map[i][j] = 1
+                filled += 1
+            else:
+                # Pixel já preenchido, ignora e tenta outro
+                continue
+

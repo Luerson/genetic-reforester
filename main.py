@@ -6,7 +6,7 @@ import pylandstats as pls
 
 my_data         = factory.get_data_A()
 my_mutation     = factory.get_mutation_A()
-my_selector     = factory.get_selector_A()
+my_selector     = factory.get_selector_B()
 my_adaptation   = factory.get_adaptaion_A()
 my_constructive = factory.get_constructive_A()
 my_reproduction = factory.get_reproduction_A()
@@ -23,7 +23,7 @@ my_solver.set_reproduction(my_reproduction)
 my_solver.set_generation(my_generation)
 
 # caminho_entrada = input("caminho do arquivo de entrada:")
-caminho_entrada = "input/jp_solo.tif"
+caminho_entrada = "input/uso_solo_2019.tif"
 # caminho_saida   = input("caminho do arquivo de saida:")
 
 my_data.read_Data(caminho_entrada)
@@ -46,11 +46,28 @@ def visualizar(solucoes):
     plt.figure(figsize=(15, 8))
     
     for i, sol in enumerate(solucoes, 1):
-        plt.subplot(3, 4, i)
+        plt.subplot(1, 1, i)
 
         # Mostra só os pixels ativados em cada solução
-        plt.imshow(sol, cmap='jet', vmin=0, vmax=1)
+        plt.imshow(sol, cmap='gray', vmin=0, vmax=1)
         plt.title(f"Solução {i}")
+        plt.axis('off')
+
+    plt.tight_layout()
+    plt.show()
+
+def visualizar_2(curr_sol, forest_map):
+    plt.figure(figsize=(18, 6))
+
+    union_map = np.logical_or(curr_sol, forest_map).astype(int)
+
+    maps = [curr_sol, forest_map, union_map]
+    titles = ['Solução Corrente B', 'Mapa de Florestas B', 'União (OR) B']
+
+    for i, (mapa, titulo) in enumerate(zip(maps, titles), 1):
+        plt.subplot(1, 3, i)
+        plt.imshow(mapa, cmap='gray', vmin=0, vmax=1)
+        plt.title(titulo)
         plt.axis('off')
 
     plt.tight_layout()
@@ -102,4 +119,4 @@ def comparar_solucoes(sol1, sol2):
 # visualizar([solucao_0])
 
 generation = my_solver.solve()
-visualizar(generation)
+visualizar_2(generation[0], my_data.mapa_binario_floresta)
