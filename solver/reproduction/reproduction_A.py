@@ -22,7 +22,7 @@ class reproduction_A(reproduction):
       # nova_lista = lista_solucoes.copy()  # Cria uma nova lista para armazenar pais + filhos
       nova_lista = []
 
-      def distribuir_restos(resto_mask, filho_a, filho_b, pct_a=0.8):
+      def distribuir_restos(resto_mask, filho_a, filho_b, pct_a):
          """
          Distribui os pixels ativos do resto de um pai entre dois filhos.
          - pct_a: porcentagem do resto que vai para o primeiro filho.
